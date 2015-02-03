@@ -1,4 +1,4 @@
-Shapeshift v2.0
+Shapeshift v2.0 [Szerkesztett verzió]
 ===============
 
 [Check out a demo here.](http://mcpants.github.com/jquery.shapeshift/)
